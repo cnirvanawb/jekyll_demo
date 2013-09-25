@@ -6,4 +6,3 @@ My first github blog
 2013年8月21日
 
 test for phabricator
-test pull request
